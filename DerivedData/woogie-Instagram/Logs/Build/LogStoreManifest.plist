@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>2DD70615-CE35-4F9C-B2EE-B7889702ABAB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2DD70615-CE35-4F9C-B2EE-B7889702ABAB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>woogie-Instagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>woogie-Instagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build woogie-Instagram</string>
+			<key>timeStartedRecording</key>
+			<real>654519877.29089403</real>
+			<key>timeStoppedRecording</key>
+			<real>654519881.038903</real>
+			<key>title</key>
+			<string>Build woogie-Instagram</string>
+			<key>uniqueIdentifier</key>
+			<string>2DD70615-CE35-4F9C-B2EE-B7889702ABAB</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

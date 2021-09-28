@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+woogie-Instagram in woogie-Instagram, no dependencies
+woogie-Instagram in woogie-Instagram, no dependencies
