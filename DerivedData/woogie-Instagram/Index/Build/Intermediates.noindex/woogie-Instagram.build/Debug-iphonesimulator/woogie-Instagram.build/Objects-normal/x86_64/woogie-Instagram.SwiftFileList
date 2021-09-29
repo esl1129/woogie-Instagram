@@ -1,17 +1,21 @@
-/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/SearchViewController.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/General/SearchViewController.swift
 /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/Onboarding/LoginViewController.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Resources/StorageManager.swift
 /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Core\ Tabs/HomeViewController.swift
-/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/PostEditorViewController.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/General/PostEditorViewController.swift
 /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Core\ Tabs/ExploreViewController.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Resources/Extension.swift
 /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/Onboarding/RegistrationViewController.swift
 /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Core\ Tabs/NotificationsViewController.swift
-/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/ListViewController.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/General/ListViewController.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Resources/AuthManager.swift
 /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Resources/AppDelegate.swift
-/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/PublishPostViewController.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/General/PublishPostViewController.swift
 /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Resources/SceneDelegate.swift
-/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/EditProfileViewController.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/General/EditProfileViewController.swift
 /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Core\ Tabs/ProfileViewController.swift
-/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/SettingsViewController.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Resources/DatabaseManager.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/General/SettingsViewController.swift
 /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Core\ Tabs/CameraViewController.swift
-/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/SearchResultViewController.swift
-/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/PostViewController.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/General/SearchResultViewController.swift
+/Users/jaewook/Documents/IOS-Dev/woogie-Instagram/woogie-Instagram/Controllers/Other/General/PostViewController.swift

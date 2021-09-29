@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>2DD70615-CE35-4F9C-B2EE-B7889702ABAB</key>
+		<key>D33D1A30-FED7-4DAE-987E-97D57F46D469</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2DD70615-CE35-4F9C-B2EE-B7889702ABAB.xcactivitylog</string>
+			<string>D33D1A30-FED7-4DAE-987E-97D57F46D469.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -30,15 +30,15 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Build woogie-Instagram</string>
+			<string>Clean woogie-Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>654519877.29089403</real>
+			<real>654568749.53939605</real>
 			<key>timeStoppedRecording</key>
-			<real>654519881.038903</real>
+			<real>654568750.28898799</real>
 			<key>title</key>
-			<string>Build woogie-Instagram</string>
+			<string>Clean woogie-Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>2DD70615-CE35-4F9C-B2EE-B7889702ABAB</string>
+			<string>D33D1A30-FED7-4DAE-987E-97D57F46D469</string>
 		</dict>
 	</dict>
 </dict>
