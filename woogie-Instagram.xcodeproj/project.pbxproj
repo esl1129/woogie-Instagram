@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C821C5F270584D700202C80 /* IGFeedPostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C821C5E270584D600202C80 /* IGFeedPostTableViewCell.swift */; };
+		6C821C622705867B00202C80 /* IGFeedPostHeaderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C821C612705867B00202C80 /* IGFeedPostHeaderTableViewCell.swift */; };
+		6C821C642705869200202C80 /* IGFeedPostActionsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C821C632705869200202C80 /* IGFeedPostActionsTableViewCell.swift */; };
+		6C821C66270586B200202C80 /* IGFeedPostGeneralTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C821C65270586B200202C80 /* IGFeedPostGeneralTableViewCell.swift */; };
 		6CBEFA202703270B002A354C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CBEFA1F2703270B002A354C /* AppDelegate.swift */; };
 		6CBEFA222703270B002A354C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CBEFA212703270B002A354C /* SceneDelegate.swift */; };
 		6CBEFA242703270B002A354C /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CBEFA232703270B002A354C /* HomeViewController.swift */; };
@@ -38,6 +42,10 @@
 
 /* Begin PBXFileReference section */
 		0C3C2D6D5F674E4132B8897B /* Pods-woogie-Instagram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-woogie-Instagram.debug.xcconfig"; path = "Target Support Files/Pods-woogie-Instagram/Pods-woogie-Instagram.debug.xcconfig"; sourceTree = "<group>"; };
+		6C821C5E270584D600202C80 /* IGFeedPostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IGFeedPostTableViewCell.swift; sourceTree = "<group>"; };
+		6C821C612705867B00202C80 /* IGFeedPostHeaderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IGFeedPostHeaderTableViewCell.swift; sourceTree = "<group>"; };
+		6C821C632705869200202C80 /* IGFeedPostActionsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IGFeedPostActionsTableViewCell.swift; sourceTree = "<group>"; };
+		6C821C65270586B200202C80 /* IGFeedPostGeneralTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IGFeedPostGeneralTableViewCell.swift; sourceTree = "<group>"; };
 		6CBEFA1C2703270B002A354C /* woogie-Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "woogie-Instagram.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CBEFA1F2703270B002A354C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6CBEFA212703270B002A354C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +90,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6C821C5D270584B900202C80 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				6C821C602705865900202C80 /* Home Feed */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		6C821C602705865900202C80 /* Home Feed */ = {
+			isa = PBXGroup;
+			children = (
+				6C821C5E270584D600202C80 /* IGFeedPostTableViewCell.swift */,
+				6C821C612705867B00202C80 /* IGFeedPostHeaderTableViewCell.swift */,
+				6C821C632705869200202C80 /* IGFeedPostActionsTableViewCell.swift */,
+				6C821C65270586B200202C80 /* IGFeedPostGeneralTableViewCell.swift */,
+			);
+			path = "Home Feed";
+			sourceTree = "<group>";
+		};
 		6CBEFA132703270B002A354C = {
 			isa = PBXGroup;
 			children = (
@@ -125,6 +152,7 @@
 		6CBEFA372703296F002A354C /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				6C821C5D270584B900202C80 /* Cells */,
 				6CBEFA3A270329B6002A354C /* Storyboards */,
 				6CBEFA2B2703270F002A354C /* Assets.xcassets */,
 			);
@@ -343,10 +371,13 @@
 				6CBEFA4827032AD6002A354C /* LoginViewController.swift in Sources */,
 				6CBEFA2A2703270B002A354C /* woogie_Instagram.xcdatamodeld in Sources */,
 				6CBEFA642703E5E0002A354C /* StorageManager.swift in Sources */,
+				6C821C622705867B00202C80 /* IGFeedPostHeaderTableViewCell.swift in Sources */,
 				6CBEFA242703270B002A354C /* HomeViewController.swift in Sources */,
 				6CBEFA5927032B8B002A354C /* PostEditorViewController.swift in Sources */,
 				6CBEFA3C27032A16002A354C /* ExploreViewController.swift in Sources */,
+				6C821C66270586B200202C80 /* IGFeedPostGeneralTableViewCell.swift in Sources */,
 				6CBEFA662703EAB5002A354C /* Extension.swift in Sources */,
+				6C821C5F270584D700202C80 /* IGFeedPostTableViewCell.swift in Sources */,
 				6CBEFA4B27032AEC002A354C /* RegistrationViewController.swift in Sources */,
 				6CBEFA4027032A49002A354C /* NotificationsViewController.swift in Sources */,
 				6CBEFA5327032B43002A354C /* ListViewController.swift in Sources */,
@@ -359,6 +390,7 @@
 				6CBEFA602703E53D002A354C /* DatabaseManager.swift in Sources */,
 				6CBEFA5127032B31002A354C /* SettingsViewController.swift in Sources */,
 				6CBEFA3E27032A38002A354C /* CameraViewController.swift in Sources */,
+				6C821C642705869200202C80 /* IGFeedPostActionsTableViewCell.swift in Sources */,
 				6CBEFA5727032B65002A354C /* SearchResultViewController.swift in Sources */,
 				6CBEFA4D27032B0C002A354C /* PostViewController.swift in Sources */,
 			);
