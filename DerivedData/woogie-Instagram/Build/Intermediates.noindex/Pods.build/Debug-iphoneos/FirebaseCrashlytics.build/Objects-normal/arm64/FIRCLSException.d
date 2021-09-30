@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSException.mm \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSException.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Private/FIRExceptionModel_Private.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRExceptionModel.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRStackFrame.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Private/FIRStackFrame_Private.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSApplication.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSGlobals.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSContext.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSBinaryImage.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFeatures.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSDefines.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFile.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Shared/FIRCLSMachO/FIRCLSMachO.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSHost.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSUserLogging.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSMachException.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSSignal.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSAllocate.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSInternalLogging.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSLogger.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSProcess.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSHandler.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSUtility.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Controllers/FIRCLSReportManager_Private.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Controllers/FIRCLSReportManager.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRCrashlytics.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FIRCrashlyticsReport.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSProfiling.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Controllers/FIRCLSReportUploader.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Models/FIRCLSLaunchMarkerModel.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Models/FIRCLSFileManager.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Operations/Symbolication/FIRCLSDemangleOperation.h \
+  /Users/jaewook/Documents/IOS-Dev/woogie-Instagram/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Operations/Symbolication/FIRCLSThreadArrayOperation.h

@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0139C5AA-0F13-41BA-9818-936E132A7B50</key>
+		<key>03203A96-53A4-4C14-8615-C6BACB0C0E20</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,279 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
 			<key>fileName</key>
-			<string>0139C5AA-0F13-41BA-9818-936E132A7B50.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>GTMSessionFetcher Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570098.23440802</real>
-			<key>timeStoppedRecording</key>
-			<real>654570098.36555898</real>
-			<key>title</key>
-			<string>GTMSessionFetcher Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>0139C5AA-0F13-41BA-9818-936E132A7B50</string>
-		</dict>
-		<key>05694471-7AA2-4A5B-AC00-68156AE17E40</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>05694471-7AA2-4A5B-AC00-68156AE17E40.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Appirater Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570098.78806698</real>
-			<key>timeStoppedRecording</key>
-			<real>654570098.81705701</real>
-			<key>title</key>
-			<string>Appirater Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>05694471-7AA2-4A5B-AC00-68156AE17E40</string>
-		</dict>
-		<key>126D072E-67AE-44DE-9FDB-B821C96672E3</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>126D072E-67AE-44DE-9FDB-B821C96672E3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>FirebaseCoreDiagnostics Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570097.35040498</real>
-			<key>timeStoppedRecording</key>
-			<real>654570097.86884797</real>
-			<key>title</key>
-			<string>FirebaseCoreDiagnostics Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>126D072E-67AE-44DE-9FDB-B821C96672E3</string>
-		</dict>
-		<key>15EB36B4-0213-4394-8B3F-68E3DF887235</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>15EB36B4-0213-4394-8B3F-68E3DF887235.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570426.72296703</real>
-			<key>timeStoppedRecording</key>
-			<real>654570426.86738598</real>
-			<key>title</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>15EB36B4-0213-4394-8B3F-68E3DF887235</string>
-		</dict>
-		<key>169CA04C-F432-4759-A6B2-9F8C40C25D19</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>169CA04C-F432-4759-A6B2-9F8C40C25D19.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>woogie-Instagram Build Description</string>
-			<key>timeStartedRecording</key>
-			<real>654570086.32265496</real>
-			<key>timeStoppedRecording</key>
-			<real>654570095.52182198</real>
-			<key>title</key>
-			<string>woogie-Instagram Build Description</string>
-			<key>uniqueIdentifier</key>
-			<string>169CA04C-F432-4759-A6B2-9F8C40C25D19</string>
-		</dict>
-		<key>1835B1A5-F234-4DBC-8882-B243E0AC9DC5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>1835B1A5-F234-4DBC-8882-B243E0AC9DC5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570441.75239897</real>
-			<key>timeStoppedRecording</key>
-			<real>654570441.94082105</real>
-			<key>title</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>1835B1A5-F234-4DBC-8882-B243E0AC9DC5</string>
-		</dict>
-		<key>1DE48758-C7DD-4839-AF7B-3AC61D1A20D2</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>1DE48758-C7DD-4839-AF7B-3AC61D1A20D2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570495.71589506</real>
-			<key>timeStoppedRecording</key>
-			<real>654570495.90422904</real>
-			<key>title</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>1DE48758-C7DD-4839-AF7B-3AC61D1A20D2</string>
-		</dict>
-		<key>37ADE782-FB47-43FD-8D7A-2569BC9E9FD7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>37ADE782-FB47-43FD-8D7A-2569BC9E9FD7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570132.32532895</real>
-			<key>timeStoppedRecording</key>
-			<real>654570132.53863704</real>
-			<key>title</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>37ADE782-FB47-43FD-8D7A-2569BC9E9FD7</string>
-		</dict>
-		<key>4C92B216-9D6A-4774-B415-867890178BF1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>4C92B216-9D6A-4774-B415-867890178BF1.xcactivitylog</string>
+			<string>03203A96-53A4-4C14-8615-C6BACB0C0E20.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +32,15 @@
 			<key>signature</key>
 			<string>woogie-Instagram Build Preparation</string>
 			<key>timeStartedRecording</key>
-			<real>654570050.49643397</real>
+			<real>654659033.85829997</real>
 			<key>timeStoppedRecording</key>
-			<real>654570051.18036306</real>
+			<real>654659034.13007402</real>
 			<key>title</key>
 			<string>woogie-Instagram Build Preparation</string>
 			<key>uniqueIdentifier</key>
-			<string>4C92B216-9D6A-4774-B415-867890178BF1</string>
+			<string>03203A96-53A4-4C14-8615-C6BACB0C0E20</string>
 		</dict>
-		<key>4D8D2936-0D72-431D-B53E-52F02AB854F8</key>
+		<key>03362F0B-D3A4-437C-8C8D-65F0E24E7E69</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -321,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
 			<key>fileName</key>
-			<string>4D8D2936-0D72-431D-B53E-52F02AB854F8.xcactivitylog</string>
+			<string>03362F0B-D3A4-437C-8C8D-65F0E24E7E69.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,15 +66,15 @@
 			<key>signature</key>
 			<string>Workspace Build Description</string>
 			<key>timeStartedRecording</key>
-			<real>654570086.30846</real>
+			<real>654657341.80205405</real>
 			<key>timeStoppedRecording</key>
-			<real>654570100.45658398</real>
+			<real>654657346.55029798</real>
 			<key>title</key>
 			<string>Workspace Build Description</string>
 			<key>uniqueIdentifier</key>
-			<string>4D8D2936-0D72-431D-B53E-52F02AB854F8</string>
+			<string>03362F0B-D3A4-437C-8C8D-65F0E24E7E69</string>
 		</dict>
-		<key>70631E05-D387-49B0-A827-1CDE720B80C0</key>
+		<key>04E8AC97-2648-4385-9E66-C17DD0B83EF7</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -355,13 +83,795 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
 			<key>fileName</key>
-			<string>70631E05-D387-49B0-A827-1CDE720B80C0.xcactivitylog</string>
+			<string>04E8AC97-2648-4385-9E66-C17DD0B83EF7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654658878.99457002</real>
+			<key>timeStoppedRecording</key>
+			<real>654658879.17386901</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>04E8AC97-2648-4385-9E66-C17DD0B83EF7</string>
+		</dict>
+		<key>05F355BD-3F50-4F03-9C95-224C42897222</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>05F355BD-3F50-4F03-9C95-224C42897222.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654650.90622199</real>
+			<key>timeStoppedRecording</key>
+			<real>654654658.67551804</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>05F355BD-3F50-4F03-9C95-224C42897222</string>
+		</dict>
+		<key>06215E06-DD87-4001-8CBA-EB3CECD0C9C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>06215E06-DD87-4001-8CBA-EB3CECD0C9C5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654658251.41201997</real>
+			<key>timeStoppedRecording</key>
+			<real>654658251.67869699</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>06215E06-DD87-4001-8CBA-EB3CECD0C9C5</string>
+		</dict>
+		<key>074F35A5-CDB2-43C3-A4FD-4E01F5442EC7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>074F35A5-CDB2-43C3-A4FD-4E01F5442EC7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655277.195768</real>
+			<key>timeStoppedRecording</key>
+			<real>654655277.39586902</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>074F35A5-CDB2-43C3-A4FD-4E01F5442EC7</string>
+		</dict>
+		<key>08010C3F-0A95-4E39-B49C-9822CCE0A360</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>08010C3F-0A95-4E39-B49C-9822CCE0A360.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>654654072.60959697</real>
+			<key>timeStoppedRecording</key>
+			<real>654654088.74551904</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>08010C3F-0A95-4E39-B49C-9822CCE0A360</string>
+		</dict>
+		<key>0881408D-2CC4-462A-A3E0-F0A7D9D90546</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0881408D-2CC4-462A-A3E0-F0A7D9D90546.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655677.92585802</real>
+			<key>timeStoppedRecording</key>
+			<real>654655678.19325399</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0881408D-2CC4-462A-A3E0-F0A7D9D90546</string>
+		</dict>
+		<key>08F75661-DACC-4892-B5E1-37095B968DD0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>08F75661-DACC-4892-B5E1-37095B968DD0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655012.88657904</real>
+			<key>timeStoppedRecording</key>
+			<real>654655013.10956001</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>08F75661-DACC-4892-B5E1-37095B968DD0</string>
+		</dict>
+		<key>0B490045-7AB5-410C-A031-F60DC75FEAF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0B490045-7AB5-410C-A031-F60DC75FEAF1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656790.90047204</real>
+			<key>timeStoppedRecording</key>
+			<real>654656791.13008499</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0B490045-7AB5-410C-A031-F60DC75FEAF1</string>
+		</dict>
+		<key>0BBA91D9-5AF5-4A45-8070-960F32C01D74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0BBA91D9-5AF5-4A45-8070-960F32C01D74.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656974.57697201</real>
+			<key>timeStoppedRecording</key>
+			<real>654656975.07942104</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0BBA91D9-5AF5-4A45-8070-960F32C01D74</string>
+		</dict>
+		<key>0F65BCEB-6C14-4C62-802E-7F7CA27EEF15</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0F65BCEB-6C14-4C62-802E-7F7CA27EEF15.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Build Folder</string>
+			<key>timeStartedRecording</key>
+			<real>654657606.30845594</real>
+			<key>timeStoppedRecording</key>
+			<real>654657606.50428998</real>
+			<key>title</key>
+			<string>Clean Build Folder</string>
+			<key>uniqueIdentifier</key>
+			<string>0F65BCEB-6C14-4C62-802E-7F7CA27EEF15</string>
+		</dict>
+		<key>15007DA4-F82C-40FB-8F5D-FB50B94C07A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>15007DA4-F82C-40FB-8F5D-FB50B94C07A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656537.70833099</real>
+			<key>timeStoppedRecording</key>
+			<real>654656537.98274601</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>15007DA4-F82C-40FB-8F5D-FB50B94C07A0</string>
+		</dict>
+		<key>18836D70-A68F-447A-BF37-A8DC88634938</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>18836D70-A68F-447A-BF37-A8DC88634938.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654496.81850004</real>
+			<key>timeStoppedRecording</key>
+			<real>654654497.03031099</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>18836D70-A68F-447A-BF37-A8DC88634938</string>
+		</dict>
+		<key>19DCCAF5-ABB8-487C-B4EA-C69997761AB1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>19DCCAF5-ABB8-487C-B4EA-C69997761AB1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>654654072.04232895</real>
+			<key>timeStoppedRecording</key>
+			<real>654654072.60104895</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>19DCCAF5-ABB8-487C-B4EA-C69997761AB1</string>
+		</dict>
+		<key>1E136585-3767-41E7-BF41-10F71AEF00F0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1E136585-3767-41E7-BF41-10F71AEF00F0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655844.62714398</real>
+			<key>timeStoppedRecording</key>
+			<real>654655844.84587502</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1E136585-3767-41E7-BF41-10F71AEF00F0</string>
+		</dict>
+		<key>1EE4AB2F-3EC9-426E-94F8-85D160627BE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1EE4AB2F-3EC9-426E-94F8-85D160627BE1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656499.99803603</real>
+			<key>timeStoppedRecording</key>
+			<real>654656500.20838201</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1EE4AB2F-3EC9-426E-94F8-85D160627BE1</string>
+		</dict>
+		<key>2118859E-14F7-409F-9600-29DDCEC63E1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2118859E-14F7-409F-9600-29DDCEC63E1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654502.11470699</real>
+			<key>timeStoppedRecording</key>
+			<real>654654502.86826706</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2118859E-14F7-409F-9600-29DDCEC63E1B</string>
+		</dict>
+		<key>21A61513-0D8B-4D9C-9AD1-989F83EE24A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>21A61513-0D8B-4D9C-9AD1-989F83EE24A3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654658329.57750106</real>
+			<key>timeStoppedRecording</key>
+			<real>654658329.75594795</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>21A61513-0D8B-4D9C-9AD1-989F83EE24A3</string>
+		</dict>
+		<key>24D6595A-EF05-460E-84B8-67FF2F26A530</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>24D6595A-EF05-460E-84B8-67FF2F26A530.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657162.47359097</real>
+			<key>timeStoppedRecording</key>
+			<real>654657163.45452297</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>24D6595A-EF05-460E-84B8-67FF2F26A530</string>
+		</dict>
+		<key>27A0973F-67D6-4CA2-96FE-14140AA90D61</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>27A0973F-67D6-4CA2-96FE-14140AA90D61.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656607.18609095</real>
+			<key>timeStoppedRecording</key>
+			<real>654656607.44019902</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>27A0973F-67D6-4CA2-96FE-14140AA90D61</string>
+		</dict>
+		<key>2AB3A62B-DF30-4B3F-B1AD-E09574388457</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2AB3A62B-DF30-4B3F-B1AD-E09574388457.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656944.11714602</real>
+			<key>timeStoppedRecording</key>
+			<real>654656944.36321402</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2AB3A62B-DF30-4B3F-B1AD-E09574388457</string>
+		</dict>
+		<key>2BD862C9-3AED-4043-B3C0-E64EA48695FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2BD862C9-3AED-4043-B3C0-E64EA48695FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657484.29633296</real>
+			<key>timeStoppedRecording</key>
+			<real>654657484.56250203</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2BD862C9-3AED-4043-B3C0-E64EA48695FE</string>
+		</dict>
+		<key>2DB54DFB-A054-4769-A58F-FD43DF8EF415</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2DB54DFB-A054-4769-A58F-FD43DF8EF415.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657254.33242905</real>
+			<key>timeStoppedRecording</key>
+			<real>654657254.55364096</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2DB54DFB-A054-4769-A58F-FD43DF8EF415</string>
+		</dict>
+		<key>2EF95040-B4FD-41C1-AB0F-4FB0C741CC3E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2EF95040-B4FD-41C1-AB0F-4FB0C741CC3E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657199.43864501</real>
+			<key>timeStoppedRecording</key>
+			<real>654657199.64364696</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2EF95040-B4FD-41C1-AB0F-4FB0C741CC3E</string>
+		</dict>
+		<key>2F2E8BC6-F1B2-4259-B585-7A6F7ADD248E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2F2E8BC6-F1B2-4259-B585-7A6F7ADD248E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Index Build</string>
@@ -372,15 +882,15 @@
 			<key>signature</key>
 			<string>FirebaseStorage Build Preparation</string>
 			<key>timeStartedRecording</key>
-			<real>654570098.36578596</real>
+			<real>654657353.63518202</real>
 			<key>timeStoppedRecording</key>
-			<real>654570098.59157705</real>
+			<real>654657353.83911502</real>
 			<key>title</key>
 			<string>FirebaseStorage Build Preparation</string>
 			<key>uniqueIdentifier</key>
-			<string>70631E05-D387-49B0-A827-1CDE720B80C0</string>
+			<string>2F2E8BC6-F1B2-4259-B585-7A6F7ADD248E</string>
 		</dict>
-		<key>740B90C4-230A-4B8B-A4C0-3B2E07C2C442</key>
+		<key>305F241D-1AB3-4C81-9EFF-1E1F8D444158</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -389,109 +899,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
 			<key>fileName</key>
-			<string>740B90C4-230A-4B8B-A4C0-3B2E07C2C442.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570095.52834201</real>
-			<key>timeStoppedRecording</key>
-			<real>654570097.14504302</real>
-			<key>title</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>740B90C4-230A-4B8B-A4C0-3B2E07C2C442</string>
-		</dict>
-		<key>80F2C9FF-4056-40BE-B3A2-6D606C3A1622</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>80F2C9FF-4056-40BE-B3A2-6D606C3A1622.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570222.11011505</real>
-			<key>timeStoppedRecording</key>
-			<real>654570222.50518095</real>
-			<key>title</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>80F2C9FF-4056-40BE-B3A2-6D606C3A1622</string>
-		</dict>
-		<key>837299A3-3761-461C-962F-A9E04FAE3535</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>837299A3-3761-461C-962F-A9E04FAE3535.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>FirebaseDatabase Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570098.93614805</real>
-			<key>timeStoppedRecording</key>
-			<real>654570099.00456095</real>
-			<key>title</key>
-			<string>FirebaseDatabase Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>837299A3-3761-461C-962F-A9E04FAE3535</string>
-		</dict>
-		<key>95ECD00C-64F7-42A4-B123-9E011658531E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>95ECD00C-64F7-42A4-B123-9E011658531E.xcactivitylog</string>
+			<string>305F241D-1AB3-4C81-9EFF-1E1F8D444158.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -506,17 +914,17 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>0</integer>
 			<key>signature</key>
-			<string>Workspace Build Description</string>
+			<string>woogie-Instagram Build Preparation</string>
 			<key>timeStartedRecording</key>
-			<real>654570179.61924398</real>
+			<real>654656822.16260898</real>
 			<key>timeStoppedRecording</key>
-			<real>654570185.68649697</real>
+			<real>654656822.393502</real>
 			<key>title</key>
-			<string>Workspace Build Description</string>
+			<string>woogie-Instagram Build Preparation</string>
 			<key>uniqueIdentifier</key>
-			<string>95ECD00C-64F7-42A4-B123-9E011658531E</string>
+			<string>305F241D-1AB3-4C81-9EFF-1E1F8D444158</string>
 		</dict>
-		<key>967B2442-E821-4F7C-8B5C-FA5C16747974</key>
+		<key>31784F44-A93C-455C-81FF-4B3FAB78BE2F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -525,115 +933,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
 			<key>fileName</key>
-			<string>967B2442-E821-4F7C-8B5C-FA5C16747974.xcactivitylog</string>
+			<string>31784F44-A93C-455C-81FF-4B3FAB78BE2F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>FirebaseInstallations Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570097.88355899</real>
-			<key>timeStoppedRecording</key>
-			<real>654570098.22276795</real>
-			<key>title</key>
-			<string>FirebaseInstallations Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>967B2442-E821-4F7C-8B5C-FA5C16747974</string>
-		</dict>
-		<key>9A1A5F85-4C1F-4CD8-99FE-0FFFD7B9CB6F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>9A1A5F85-4C1F-4CD8-99FE-0FFFD7B9CB6F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>leveldb-library Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570098.71637797</real>
-			<key>timeStoppedRecording</key>
-			<real>654570098.74921501</real>
-			<key>title</key>
-			<string>leveldb-library Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>9A1A5F85-4C1F-4CD8-99FE-0FFFD7B9CB6F</string>
-		</dict>
-		<key>9E312557-9A64-4AC9-8752-53CEAD6B82C7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>9E312557-9A64-4AC9-8752-53CEAD6B82C7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>FirebaseAuth Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570098.84262002</real>
-			<key>timeStoppedRecording</key>
-			<real>654570098.93596399</real>
-			<key>title</key>
-			<string>FirebaseAuth Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>9E312557-9A64-4AC9-8752-53CEAD6B82C7</string>
-		</dict>
-		<key>A4CC302B-D5DE-448A-ABEB-FD166945D321</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>A4CC302B-D5DE-448A-ABEB-FD166945D321.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Index Build</string>
@@ -644,15 +950,15 @@
 			<key>signature</key>
 			<string>woogie-Instagram Build Preparation</string>
 			<key>timeStartedRecording</key>
-			<real>654570389.32343996</real>
+			<real>654654307.04157996</real>
 			<key>timeStoppedRecording</key>
-			<real>654570389.55778205</real>
+			<real>654654307.19730306</real>
 			<key>title</key>
 			<string>woogie-Instagram Build Preparation</string>
 			<key>uniqueIdentifier</key>
-			<string>A4CC302B-D5DE-448A-ABEB-FD166945D321</string>
+			<string>31784F44-A93C-455C-81FF-4B3FAB78BE2F</string>
 		</dict>
-		<key>AD9345AB-6DEF-4785-8CD0-D10B84886B4F</key>
+		<key>3341C446-7C65-4BAC-B408-19EC9A8E3CD7</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -661,13 +967,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
 			<key>fileName</key>
-			<string>AD9345AB-6DEF-4785-8CD0-D10B84886B4F.xcactivitylog</string>
+			<string>3341C446-7C65-4BAC-B408-19EC9A8E3CD7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Index Build</string>
@@ -678,15 +984,15 @@
 			<key>signature</key>
 			<string>woogie-Instagram Build Preparation</string>
 			<key>timeStartedRecording</key>
-			<real>654570114.30291903</real>
+			<real>654658853.98150897</real>
 			<key>timeStoppedRecording</key>
-			<real>654570114.86146104</real>
+			<real>654658854.23204803</real>
 			<key>title</key>
 			<string>woogie-Instagram Build Preparation</string>
 			<key>uniqueIdentifier</key>
-			<string>AD9345AB-6DEF-4785-8CD0-D10B84886B4F</string>
+			<string>3341C446-7C65-4BAC-B408-19EC9A8E3CD7</string>
 		</dict>
-		<key>AE7BE3FF-465E-40F1-BE61-C26EB009E33F</key>
+		<key>3342302C-3CCC-45EB-B4DC-097502A94B53</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -695,7 +1001,75 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
 			<key>fileName</key>
-			<string>AE7BE3FF-465E-40F1-BE61-C26EB009E33F.xcactivitylog</string>
+			<string>3342302C-3CCC-45EB-B4DC-097502A94B53.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656193.52550495</real>
+			<key>timeStoppedRecording</key>
+			<real>654656193.82291996</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3342302C-3CCC-45EB-B4DC-097502A94B53</string>
+		</dict>
+		<key>36CADA3A-419E-4FEE-B1A0-A00FB6DCF19E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>36CADA3A-419E-4FEE-B1A0-A00FB6DCF19E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654476.90825903</real>
+			<key>timeStoppedRecording</key>
+			<real>654654477.12616599</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>36CADA3A-419E-4FEE-B1A0-A00FB6DCF19E</string>
+		</dict>
+		<key>37B7C179-7FBE-4E05-9F2F-A6603E73FF40</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>37B7C179-7FBE-4E05-9F2F-A6603E73FF40.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -712,15 +1086,15 @@
 			<key>signature</key>
 			<string>woogie-Instagram Build Description</string>
 			<key>timeStartedRecording</key>
-			<real>654570179.62168002</real>
+			<real>654654640.33582902</real>
 			<key>timeStoppedRecording</key>
-			<real>654570182.05438495</real>
+			<real>654654643.56187296</real>
 			<key>title</key>
 			<string>woogie-Instagram Build Description</string>
 			<key>uniqueIdentifier</key>
-			<string>AE7BE3FF-465E-40F1-BE61-C26EB009E33F</string>
+			<string>37B7C179-7FBE-4E05-9F2F-A6603E73FF40</string>
 		</dict>
-		<key>BDBAE6E4-C4BE-4F12-B77B-D7A5B095E7E2</key>
+		<key>39493BC6-767A-4BFF-BAD9-9760BA2D0048</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -729,13 +1103,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
 			<key>fileName</key>
-			<string>BDBAE6E4-C4BE-4F12-B77B-D7A5B095E7E2.xcactivitylog</string>
+			<string>39493BC6-767A-4BFF-BAD9-9760BA2D0048.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Index Build</string>
@@ -744,17 +1118,17 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>0</integer>
 			<key>signature</key>
-			<string>FirebaseCrashlytics Build Preparation</string>
+			<string>Workspace Build Description</string>
 			<key>timeStartedRecording</key>
-			<real>654570098.60698998</real>
+			<real>654657346.57502103</real>
 			<key>timeStoppedRecording</key>
-			<real>654570098.71616006</real>
+			<real>654657356.17637098</real>
 			<key>title</key>
-			<string>FirebaseCrashlytics Build Preparation</string>
+			<string>Workspace Build Description</string>
 			<key>uniqueIdentifier</key>
-			<string>BDBAE6E4-C4BE-4F12-B77B-D7A5B095E7E2</string>
+			<string>39493BC6-767A-4BFF-BAD9-9760BA2D0048</string>
 		</dict>
-		<key>C19C013B-567D-48BA-B8B1-EDAFA096787A</key>
+		<key>3CA1C8A8-C4CD-413C-B27F-04B1A7D77323</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -763,47 +1137,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
 			<key>fileName</key>
-			<string>C19C013B-567D-48BA-B8B1-EDAFA096787A.xcactivitylog</string>
+			<string>3CA1C8A8-C4CD-413C-B27F-04B1A7D77323.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Index Build</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>timeStartedRecording</key>
-			<real>654570182.05951703</real>
-			<key>timeStoppedRecording</key>
-			<real>654570182.95489395</real>
-			<key>title</key>
-			<string>woogie-Instagram Build Preparation</string>
-			<key>uniqueIdentifier</key>
-			<string>C19C013B-567D-48BA-B8B1-EDAFA096787A</string>
-		</dict>
-		<key>CA5A7558-664D-4F7D-84C4-95CF10923239</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
-			<key>fileName</key>
-			<string>CA5A7558-664D-4F7D-84C4-95CF10923239.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Index Build</string>
@@ -814,15 +1154,15 @@
 			<key>signature</key>
 			<string>woogie-Instagram Build Preparation</string>
 			<key>timeStartedRecording</key>
-			<real>654570476.63780904</real>
+			<real>654655816.17854297</real>
 			<key>timeStoppedRecording</key>
-			<real>654570476.82955098</real>
+			<real>654655816.44163895</real>
 			<key>title</key>
 			<string>woogie-Instagram Build Preparation</string>
 			<key>uniqueIdentifier</key>
-			<string>CA5A7558-664D-4F7D-84C4-95CF10923239</string>
+			<string>3CA1C8A8-C4CD-413C-B27F-04B1A7D77323</string>
 		</dict>
-		<key>CBED0732-AEB2-4933-B046-5B55421031E4</key>
+		<key>3F61E13E-DC28-4DAD-A57B-70115628C207</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -831,13 +1171,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
 			<key>fileName</key>
-			<string>CBED0732-AEB2-4933-B046-5B55421031E4.xcactivitylog</string>
+			<string>3F61E13E-DC28-4DAD-A57B-70115628C207.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Index Build</string>
@@ -846,15 +1186,2701 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>0</integer>
 			<key>signature</key>
-			<string>GoogleUtilities Build Preparation</string>
+			<string>Appirater Build Preparation</string>
 			<key>timeStartedRecording</key>
-			<real>654570097.14596295</real>
+			<real>654657354.00242996</real>
 			<key>timeStoppedRecording</key>
-			<real>654570097.35018599</real>
+			<real>654657354.03030396</real>
 			<key>title</key>
-			<string>GoogleUtilities Build Preparation</string>
+			<string>Appirater Build Preparation</string>
 			<key>uniqueIdentifier</key>
-			<string>CBED0732-AEB2-4933-B046-5B55421031E4</string>
+			<string>3F61E13E-DC28-4DAD-A57B-70115628C207</string>
+		</dict>
+		<key>3F8470AF-DC46-4E73-8457-812E99CABD8E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3F8470AF-DC46-4E73-8457-812E99CABD8E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654325.06272197</real>
+			<key>timeStoppedRecording</key>
+			<real>654654325.31691301</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3F8470AF-DC46-4E73-8457-812E99CABD8E</string>
+		</dict>
+		<key>41370FD0-C4F0-4BBC-A122-3ACD52C456BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>41370FD0-C4F0-4BBC-A122-3ACD52C456BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657602.28017998</real>
+			<key>timeStoppedRecording</key>
+			<real>654657602.50054598</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>41370FD0-C4F0-4BBC-A122-3ACD52C456BF</string>
+		</dict>
+		<key>429E8231-243B-454B-A69D-8E1E6EE406F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>429E8231-243B-454B-A69D-8E1E6EE406F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655128.47165596</real>
+			<key>timeStoppedRecording</key>
+			<real>654655128.69725001</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>429E8231-243B-454B-A69D-8E1E6EE406F1</string>
+		</dict>
+		<key>434EF339-710D-4242-A3CD-857564FF3EB1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>434EF339-710D-4242-A3CD-857564FF3EB1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655905.41360199</real>
+			<key>timeStoppedRecording</key>
+			<real>654655905.64631295</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>434EF339-710D-4242-A3CD-857564FF3EB1</string>
+		</dict>
+		<key>4932D35C-1C39-44E2-9983-59CF9324F3E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4932D35C-1C39-44E2-9983-59CF9324F3E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654659093.25276005</real>
+			<key>timeStoppedRecording</key>
+			<real>654659093.50242198</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4932D35C-1C39-44E2-9983-59CF9324F3E7</string>
+		</dict>
+		<key>4A354328-1A4E-4FC1-954A-12CAE95F4B6F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4A354328-1A4E-4FC1-954A-12CAE95F4B6F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656034.92670202</real>
+			<key>timeStoppedRecording</key>
+			<real>654656035.19925904</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4A354328-1A4E-4FC1-954A-12CAE95F4B6F</string>
+		</dict>
+		<key>4FA1B45D-880C-4BAE-A7F5-DAC65C49EEE3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4FA1B45D-880C-4BAE-A7F5-DAC65C49EEE3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657551.30230105</real>
+			<key>timeStoppedRecording</key>
+			<real>654657551.72368801</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4FA1B45D-880C-4BAE-A7F5-DAC65C49EEE3</string>
+		</dict>
+		<key>506C5B50-D21E-46D3-96C9-EC295F756E18</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>506C5B50-D21E-46D3-96C9-EC295F756E18.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>654657607.30917501</real>
+			<key>timeStoppedRecording</key>
+			<real>654657619.40346003</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>506C5B50-D21E-46D3-96C9-EC295F756E18</string>
+		</dict>
+		<key>554EF0A1-A143-4852-915F-E895B169E053</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>554EF0A1-A143-4852-915F-E895B169E053.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657584.61147201</real>
+			<key>timeStoppedRecording</key>
+			<real>654657584.86540198</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>554EF0A1-A143-4852-915F-E895B169E053</string>
+		</dict>
+		<key>56E2648B-0781-47E7-BC3B-8B0B229E02FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>56E2648B-0781-47E7-BC3B-8B0B229E02FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656310.04954195</real>
+			<key>timeStoppedRecording</key>
+			<real>654656310.29621303</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>56E2648B-0781-47E7-BC3B-8B0B229E02FB</string>
+		</dict>
+		<key>58FD2BB3-9E3D-432E-97BB-D5B23CFF25B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>58FD2BB3-9E3D-432E-97BB-D5B23CFF25B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654282.46746898</real>
+			<key>timeStoppedRecording</key>
+			<real>654654282.70095599</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>58FD2BB3-9E3D-432E-97BB-D5B23CFF25B7</string>
+		</dict>
+		<key>5BD8C0CA-972D-4AEC-98A6-07FE4B47CB2A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5BD8C0CA-972D-4AEC-98A6-07FE4B47CB2A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656297.40264595</real>
+			<key>timeStoppedRecording</key>
+			<real>654656297.64707601</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5BD8C0CA-972D-4AEC-98A6-07FE4B47CB2A</string>
+		</dict>
+		<key>5D226AB4-BC9A-4532-BEDD-6B4CA89E860B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5D226AB4-BC9A-4532-BEDD-6B4CA89E860B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656562.52258503</real>
+			<key>timeStoppedRecording</key>
+			<real>654656563.08392203</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5D226AB4-BC9A-4532-BEDD-6B4CA89E860B</string>
+		</dict>
+		<key>5DDBC80D-404C-4745-9691-B32B3D157C36</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5DDBC80D-404C-4745-9691-B32B3D157C36.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654658257.608325</real>
+			<key>timeStoppedRecording</key>
+			<real>654658257.83935297</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5DDBC80D-404C-4745-9691-B32B3D157C36</string>
+		</dict>
+		<key>5E18006B-24FC-446C-8F8A-9C8A96E377F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5E18006B-24FC-446C-8F8A-9C8A96E377F5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GoogleDataTransport Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657353.83938205</real>
+			<key>timeStoppedRecording</key>
+			<real>654657353.95692098</real>
+			<key>title</key>
+			<string>GoogleDataTransport Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5E18006B-24FC-446C-8F8A-9C8A96E377F5</string>
+		</dict>
+		<key>6B22FA0C-D58F-4671-B380-2AEF5AF94D40</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6B22FA0C-D58F-4671-B380-2AEF5AF94D40.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655185.18683004</real>
+			<key>timeStoppedRecording</key>
+			<real>654655186.32250404</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6B22FA0C-D58F-4671-B380-2AEF5AF94D40</string>
+		</dict>
+		<key>6CE5DEE4-80D3-4C4E-9287-9706C16C371E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6CE5DEE4-80D3-4C4E-9287-9706C16C371E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654643.56969798</real>
+			<key>timeStoppedRecording</key>
+			<real>654654650.90611696</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6CE5DEE4-80D3-4C4E-9287-9706C16C371E</string>
+		</dict>
+		<key>6EAA58E9-02E7-42F3-816E-66E5772F9CBA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6EAA58E9-02E7-42F3-816E-66E5772F9CBA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655720.14911604</real>
+			<key>timeStoppedRecording</key>
+			<real>654655720.33285201</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6EAA58E9-02E7-42F3-816E-66E5772F9CBA</string>
+		</dict>
+		<key>6F04B162-CDEF-4955-A65B-A720CF47018C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6F04B162-CDEF-4955-A65B-A720CF47018C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654992.46577096</real>
+			<key>timeStoppedRecording</key>
+			<real>654654993.01349795</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6F04B162-CDEF-4955-A65B-A720CF47018C</string>
+		</dict>
+		<key>6F45E6D8-BA9D-4B8E-96EF-6FE694A57763</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6F45E6D8-BA9D-4B8E-96EF-6FE694A57763.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656020.82160997</real>
+			<key>timeStoppedRecording</key>
+			<real>654656021.12703598</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6F45E6D8-BA9D-4B8E-96EF-6FE694A57763</string>
+		</dict>
+		<key>70CA9131-8E87-45D9-B42B-72660FEA86EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>70CA9131-8E87-45D9-B42B-72660FEA86EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654084.41177797</real>
+			<key>timeStoppedRecording</key>
+			<real>654654085.925529</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>70CA9131-8E87-45D9-B42B-72660FEA86EB</string>
+		</dict>
+		<key>727C50CE-696C-4AA8-B8DA-010B0C8F67C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>727C50CE-696C-4AA8-B8DA-010B0C8F67C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654658434.79733205</real>
+			<key>timeStoppedRecording</key>
+			<real>654658435.02736402</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>727C50CE-696C-4AA8-B8DA-010B0C8F67C0</string>
+		</dict>
+		<key>7284C5BC-E8BF-41B0-BC58-3B6422267DFC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7284C5BC-E8BF-41B0-BC58-3B6422267DFC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656714.53634596</real>
+			<key>timeStoppedRecording</key>
+			<real>654656714.73692906</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7284C5BC-E8BF-41B0-BC58-3B6422267DFC</string>
+		</dict>
+		<key>72DC7D2E-4E58-4836-AD0E-2909BD79F42F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>72DC7D2E-4E58-4836-AD0E-2909BD79F42F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655836.94050801</real>
+			<key>timeStoppedRecording</key>
+			<real>654655837.14635801</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>72DC7D2E-4E58-4836-AD0E-2909BD79F42F</string>
+		</dict>
+		<key>75BB2AD4-DA16-44B5-9AF5-F13E961DE23A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>75BB2AD4-DA16-44B5-9AF5-F13E961DE23A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654682.93294895</real>
+			<key>timeStoppedRecording</key>
+			<real>654654683.52929294</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>75BB2AD4-DA16-44B5-9AF5-F13E961DE23A</string>
+		</dict>
+		<key>807160E9-3068-4926-9E17-2D682AAB94E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>807160E9-3068-4926-9E17-2D682AAB94E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657599.14387298</real>
+			<key>timeStoppedRecording</key>
+			<real>654657599.35417998</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>807160E9-3068-4926-9E17-2D682AAB94E3</string>
+		</dict>
+		<key>8081D96F-7DEB-42F0-9F5E-CFF72DCB0A00</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8081D96F-7DEB-42F0-9F5E-CFF72DCB0A00.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>654654640.33200002</real>
+			<key>timeStoppedRecording</key>
+			<real>654654649.77681005</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>8081D96F-7DEB-42F0-9F5E-CFF72DCB0A00</string>
+		</dict>
+		<key>815CC64D-05B7-446C-BAFB-811E0FA2AEAE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>815CC64D-05B7-446C-BAFB-811E0FA2AEAE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>leveldb-library Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657353.95716703</real>
+			<key>timeStoppedRecording</key>
+			<real>654657354.00212502</real>
+			<key>title</key>
+			<string>leveldb-library Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>815CC64D-05B7-446C-BAFB-811E0FA2AEAE</string>
+		</dict>
+		<key>84B65FBF-FB06-46E8-94EE-17FB4049D972</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>84B65FBF-FB06-46E8-94EE-17FB4049D972.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655455.16377795</real>
+			<key>timeStoppedRecording</key>
+			<real>654655455.41029096</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>84B65FBF-FB06-46E8-94EE-17FB4049D972</string>
+		</dict>
+		<key>85E4EEC3-5E31-43DD-98AD-7FA5D84B8FB7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>85E4EEC3-5E31-43DD-98AD-7FA5D84B8FB7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655344.39873302</real>
+			<key>timeStoppedRecording</key>
+			<real>654655344.72239304</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>85E4EEC3-5E31-43DD-98AD-7FA5D84B8FB7</string>
+		</dict>
+		<key>869DCFB9-7485-46A0-9951-3E10CDEF56A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>869DCFB9-7485-46A0-9951-3E10CDEF56A6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657207.95429397</real>
+			<key>timeStoppedRecording</key>
+			<real>654657208.16370106</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>869DCFB9-7485-46A0-9951-3E10CDEF56A6</string>
+		</dict>
+		<key>888F500E-C9FD-43C3-BEB1-35ADBEA82642</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>888F500E-C9FD-43C3-BEB1-35ADBEA82642.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655316.02538395</real>
+			<key>timeStoppedRecording</key>
+			<real>654655316.31043804</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>888F500E-C9FD-43C3-BEB1-35ADBEA82642</string>
+		</dict>
+		<key>8DC70F78-EF8A-4D81-A596-3BB8D33B1B32</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8DC70F78-EF8A-4D81-A596-3BB8D33B1B32.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656807.52557504</real>
+			<key>timeStoppedRecording</key>
+			<real>654656807.74267006</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8DC70F78-EF8A-4D81-A596-3BB8D33B1B32</string>
+		</dict>
+		<key>8F02E7ED-A972-41D5-8726-2C010CADA526</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8F02E7ED-A972-41D5-8726-2C010CADA526.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654551.49407005</real>
+			<key>timeStoppedRecording</key>
+			<real>654654553.45325994</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8F02E7ED-A972-41D5-8726-2C010CADA526</string>
+		</dict>
+		<key>914B8FE9-1A2A-4DA8-BA31-3A8BDBFC9FA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>914B8FE9-1A2A-4DA8-BA31-3A8BDBFC9FA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656176.12781096</real>
+			<key>timeStoppedRecording</key>
+			<real>654656176.63603199</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>914B8FE9-1A2A-4DA8-BA31-3A8BDBFC9FA0</string>
+		</dict>
+		<key>93812D5D-7536-4C11-995F-7F5931527FA4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>93812D5D-7536-4C11-995F-7F5931527FA4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>654657341.809147</real>
+			<key>timeStoppedRecording</key>
+			<real>654657346.54120302</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>93812D5D-7536-4C11-995F-7F5931527FA4</string>
+		</dict>
+		<key>95E43061-CF3F-476E-A770-E367A315919E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>95E43061-CF3F-476E-A770-E367A315919E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654500.15750504</real>
+			<key>timeStoppedRecording</key>
+			<real>654654500.94353199</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>95E43061-CF3F-476E-A770-E367A315919E</string>
+		</dict>
+		<key>9973E5B1-49B6-469A-A419-72AA20B110C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9973E5B1-49B6-469A-A419-72AA20B110C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Build Folder</string>
+			<key>timeStartedRecording</key>
+			<real>654657346.550349</real>
+			<key>timeStoppedRecording</key>
+			<real>654657346.574705</real>
+			<key>title</key>
+			<string>Clean Build Folder</string>
+			<key>uniqueIdentifier</key>
+			<string>9973E5B1-49B6-469A-A419-72AA20B110C2</string>
+		</dict>
+		<key>9B5C2EB5-44DE-48B5-B354-E4DB8A1E32B4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9B5C2EB5-44DE-48B5-B354-E4DB8A1E32B4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657057.46131003</real>
+			<key>timeStoppedRecording</key>
+			<real>654657057.72211897</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9B5C2EB5-44DE-48B5-B354-E4DB8A1E32B4</string>
+		</dict>
+		<key>9B968630-6ACA-4D76-B697-80ACEA9A4A77</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9B968630-6ACA-4D76-B697-80ACEA9A4A77.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657042.16099501</real>
+			<key>timeStoppedRecording</key>
+			<real>654657042.40855801</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9B968630-6ACA-4D76-B697-80ACEA9A4A77</string>
+		</dict>
+		<key>9CA66A8C-60A4-4E7B-A972-9E9E5F126932</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9CA66A8C-60A4-4E7B-A972-9E9E5F126932.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654658176.79788899</real>
+			<key>timeStoppedRecording</key>
+			<real>654658177.04226899</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9CA66A8C-60A4-4E7B-A972-9E9E5F126932</string>
+		</dict>
+		<key>A0DCBD22-043E-45DE-AC0F-5A24754E6C9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A0DCBD22-043E-45DE-AC0F-5A24754E6C9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654688.77991498</real>
+			<key>timeStoppedRecording</key>
+			<real>654654689.07393396</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A0DCBD22-043E-45DE-AC0F-5A24754E6C9B</string>
+		</dict>
+		<key>A0F1FE8E-CA92-48B7-A80F-37ACE5A0A92C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A0F1FE8E-CA92-48B7-A80F-37ACE5A0A92C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656340.34972</real>
+			<key>timeStoppedRecording</key>
+			<real>654656340.52869797</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A0F1FE8E-CA92-48B7-A80F-37ACE5A0A92C</string>
+		</dict>
+		<key>A449A5EE-16FA-4A20-A040-C6E3A56EB550</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A449A5EE-16FA-4A20-A040-C6E3A56EB550.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657791.07716405</real>
+			<key>timeStoppedRecording</key>
+			<real>654657791.35141695</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A449A5EE-16FA-4A20-A040-C6E3A56EB550</string>
+		</dict>
+		<key>A81FD400-747A-4121-BB89-BD1A021FFEBF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A81FD400-747A-4121-BB89-BD1A021FFEBF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654198.50822401</real>
+			<key>timeStoppedRecording</key>
+			<real>654654199.25663304</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A81FD400-747A-4121-BB89-BD1A021FFEBF</string>
+		</dict>
+		<key>AB1B938D-7B6D-4FE5-BF8A-A196EA733432</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AB1B938D-7B6D-4FE5-BF8A-A196EA733432.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655753.65916395</real>
+			<key>timeStoppedRecording</key>
+			<real>654655753.87717903</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>AB1B938D-7B6D-4FE5-BF8A-A196EA733432</string>
+		</dict>
+		<key>ACC6BDDA-2FA5-4041-BC13-7928982DEDDB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>ACC6BDDA-2FA5-4041-BC13-7928982DEDDB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656556.73793101</real>
+			<key>timeStoppedRecording</key>
+			<real>654656556.96353495</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>ACC6BDDA-2FA5-4041-BC13-7928982DEDDB</string>
+		</dict>
+		<key>AECAD2F6-24FB-4767-B287-B4592795863E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AECAD2F6-24FB-4767-B287-B4592795863E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657831.66139901</real>
+			<key>timeStoppedRecording</key>
+			<real>654657831.88287306</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>AECAD2F6-24FB-4767-B287-B4592795863E</string>
+		</dict>
+		<key>AFCCEBD3-C5F7-4FD3-83F8-9F621EED4569</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AFCCEBD3-C5F7-4FD3-83F8-9F621EED4569.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657168.61049294</real>
+			<key>timeStoppedRecording</key>
+			<real>654657168.86617005</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>AFCCEBD3-C5F7-4FD3-83F8-9F621EED4569</string>
+		</dict>
+		<key>B21C641D-5805-4C35-BC74-5B2294105F9A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B21C641D-5805-4C35-BC74-5B2294105F9A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657995.08606601</real>
+			<key>timeStoppedRecording</key>
+			<real>654657995.47446096</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B21C641D-5805-4C35-BC74-5B2294105F9A</string>
+		</dict>
+		<key>B5688824-855C-4363-978F-76B1AAB0BC20</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B5688824-855C-4363-978F-76B1AAB0BC20.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>654657346.57591701</real>
+			<key>timeStoppedRecording</key>
+			<real>654657351.53194797</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>B5688824-855C-4363-978F-76B1AAB0BC20</string>
+		</dict>
+		<key>B6AF69C2-91D9-42EE-928A-B4CABF7172DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B6AF69C2-91D9-42EE-928A-B4CABF7172DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Build Folder</string>
+			<key>timeStartedRecording</key>
+			<real>654657340.80416906</real>
+			<key>timeStoppedRecording</key>
+			<real>654657341.44582105</real>
+			<key>title</key>
+			<string>Clean Build Folder</string>
+			<key>uniqueIdentifier</key>
+			<string>B6AF69C2-91D9-42EE-928A-B4CABF7172DA</string>
+		</dict>
+		<key>B8BD0B1E-9CA0-4A09-B4D3-9EB5DFE5A76B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B8BD0B1E-9CA0-4A09-B4D3-9EB5DFE5A76B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655105.41521204</real>
+			<key>timeStoppedRecording</key>
+			<real>654655105.84123898</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B8BD0B1E-9CA0-4A09-B4D3-9EB5DFE5A76B</string>
+		</dict>
+		<key>BA7E80E1-5C33-4015-971F-1DF8459CDBC8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BA7E80E1-5C33-4015-971F-1DF8459CDBC8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656744.19278502</real>
+			<key>timeStoppedRecording</key>
+			<real>654656744.36907601</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BA7E80E1-5C33-4015-971F-1DF8459CDBC8</string>
+		</dict>
+		<key>BADE61C5-A7EF-4C7B-B382-215F75F8F576</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BADE61C5-A7EF-4C7B-B382-215F75F8F576.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657773.60502505</real>
+			<key>timeStoppedRecording</key>
+			<real>654657774.234442</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BADE61C5-A7EF-4C7B-B382-215F75F8F576</string>
+		</dict>
+		<key>BB39BFAA-73E9-4B6F-92BE-64418170575B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BB39BFAA-73E9-4B6F-92BE-64418170575B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654658319.90599895</real>
+			<key>timeStoppedRecording</key>
+			<real>654658320.23811495</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BB39BFAA-73E9-4B6F-92BE-64418170575B</string>
+		</dict>
+		<key>C18DEC66-6F96-45C2-B756-62BDE3193DB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C18DEC66-6F96-45C2-B756-62BDE3193DB3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656925.70671105</real>
+			<key>timeStoppedRecording</key>
+			<real>654656926.08160496</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C18DEC66-6F96-45C2-B756-62BDE3193DB3</string>
+		</dict>
+		<key>C3B0939A-2C8C-4E58-835C-30572635F661</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C3B0939A-2C8C-4E58-835C-30572635F661.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657614.73803997</real>
+			<key>timeStoppedRecording</key>
+			<real>654657616.59061897</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C3B0939A-2C8C-4E58-835C-30572635F661</string>
+		</dict>
+		<key>C5069F33-62BA-4EE3-8FB7-E94DA9D01CD1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C5069F33-62BA-4EE3-8FB7-E94DA9D01CD1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655950.57647204</real>
+			<key>timeStoppedRecording</key>
+			<real>654655950.98082995</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C5069F33-62BA-4EE3-8FB7-E94DA9D01CD1</string>
+		</dict>
+		<key>C87F3726-F67C-4192-9662-763ECC9D11FA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C87F3726-F67C-4192-9662-763ECC9D11FA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656643.53057206</real>
+			<key>timeStoppedRecording</key>
+			<real>654656643.79203606</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C87F3726-F67C-4192-9662-763ECC9D11FA</string>
+		</dict>
+		<key>CC9CC7D6-EAA8-4FDA-8F3D-BDE28498AE6F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>CC9CC7D6-EAA8-4FDA-8F3D-BDE28498AE6F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656476.59958804</real>
+			<key>timeStoppedRecording</key>
+			<real>654656476.97660005</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>CC9CC7D6-EAA8-4FDA-8F3D-BDE28498AE6F</string>
+		</dict>
+		<key>D349B823-9481-4803-8367-777CCDE9F3C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D349B823-9481-4803-8367-777CCDE9F3C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>654654072.610461</real>
+			<key>timeStoppedRecording</key>
+			<real>654654084.40261996</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>D349B823-9481-4803-8367-777CCDE9F3C4</string>
+		</dict>
+		<key>D63060F5-4C9D-4A9E-9690-B87D448B7C26</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D63060F5-4C9D-4A9E-9690-B87D448B7C26.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654574273.04713702</real>
+			<key>timeStoppedRecording</key>
+			<real>654574274.937953</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D63060F5-4C9D-4A9E-9690-B87D448B7C26</string>
+		</dict>
+		<key>D93FAA92-059F-4EA0-8F56-E96CA912CB26</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D93FAA92-059F-4EA0-8F56-E96CA912CB26.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657351.55621302</real>
+			<key>timeStoppedRecording</key>
+			<real>654657353.63491404</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D93FAA92-059F-4EA0-8F56-E96CA912CB26</string>
+		</dict>
+		<key>D9B999DA-2DB3-4CE3-912C-54251599E73D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D9B999DA-2DB3-4CE3-912C-54251599E73D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657245.05914199</real>
+			<key>timeStoppedRecording</key>
+			<real>654657245.31175697</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D9B999DA-2DB3-4CE3-912C-54251599E73D</string>
+		</dict>
+		<key>DB8D64DB-DCEE-44BF-9371-8DF0ED33F8D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DB8D64DB-DCEE-44BF-9371-8DF0ED33F8D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654658071.14004898</real>
+			<key>timeStoppedRecording</key>
+			<real>654658071.56849003</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DB8D64DB-DCEE-44BF-9371-8DF0ED33F8D4</string>
+		</dict>
+		<key>DD9A3D36-1BDB-4CD0-9312-F89D9140561E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DD9A3D36-1BDB-4CD0-9312-F89D9140561E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654658878.11041999</real>
+			<key>timeStoppedRecording</key>
+			<real>654658878.33362198</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DD9A3D36-1BDB-4CD0-9312-F89D9140561E</string>
+		</dict>
+		<key>E14A5A07-10CC-4E15-8C13-FA25039FEAC6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E14A5A07-10CC-4E15-8C13-FA25039FEAC6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655212.35181999</real>
+			<key>timeStoppedRecording</key>
+			<real>654655212.602175</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E14A5A07-10CC-4E15-8C13-FA25039FEAC6</string>
+		</dict>
+		<key>E21A4846-AC75-4CE2-8E7C-E0802FC03E4E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E21A4846-AC75-4CE2-8E7C-E0802FC03E4E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655037.39704096</real>
+			<key>timeStoppedRecording</key>
+			<real>654655037.59041798</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E21A4846-AC75-4CE2-8E7C-E0802FC03E4E</string>
+		</dict>
+		<key>E6E47343-D15D-4662-9279-59632C556B19</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E6E47343-D15D-4662-9279-59632C556B19.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>654657607.30971301</real>
+			<key>timeStoppedRecording</key>
+			<real>654657614.73084295</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>E6E47343-D15D-4662-9279-59632C556B19</string>
+		</dict>
+		<key>E710BCC5-2322-4FAF-B6D0-924386DB5582</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E710BCC5-2322-4FAF-B6D0-924386DB5582.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654659130.15026999</real>
+			<key>timeStoppedRecording</key>
+			<real>654659130.33458698</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E710BCC5-2322-4FAF-B6D0-924386DB5582</string>
+		</dict>
+		<key>E7C53812-7B82-49F7-8487-85567001FC35</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E7C53812-7B82-49F7-8487-85567001FC35.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654654264.69996595</real>
+			<key>timeStoppedRecording</key>
+			<real>654654265.28175902</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E7C53812-7B82-49F7-8487-85567001FC35</string>
+		</dict>
+		<key>F0D1C5DD-7E93-46DA-814D-4745F733FA92</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F0D1C5DD-7E93-46DA-814D-4745F733FA92.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657270.45164204</real>
+			<key>timeStoppedRecording</key>
+			<real>654657270.72692299</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F0D1C5DD-7E93-46DA-814D-4745F733FA92</string>
+		</dict>
+		<key>F0E10D6C-8EE7-47F0-AA76-E560AF499C70</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F0E10D6C-8EE7-47F0-AA76-E560AF499C70.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656824.76670802</real>
+			<key>timeStoppedRecording</key>
+			<real>654656824.94189298</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F0E10D6C-8EE7-47F0-AA76-E560AF499C70</string>
+		</dict>
+		<key>F0E35A77-C1D4-4381-90CC-877E3C53221E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F0E35A77-C1D4-4381-90CC-877E3C53221E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654655894.20223999</real>
+			<key>timeStoppedRecording</key>
+			<real>654655895.01716399</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F0E35A77-C1D4-4381-90CC-877E3C53221E</string>
+		</dict>
+		<key>F24667CE-6044-43DF-B532-CA12BC8B6AF9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F24667CE-6044-43DF-B532-CA12BC8B6AF9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654658327.71465898</real>
+			<key>timeStoppedRecording</key>
+			<real>654658327.92233098</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F24667CE-6044-43DF-B532-CA12BC8B6AF9</string>
+		</dict>
+		<key>F5AC100E-9F30-4472-BF1B-D8D02A69BB48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F5AC100E-9F30-4472-BF1B-D8D02A69BB48.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654657274.74556196</real>
+			<key>timeStoppedRecording</key>
+			<real>654657274.97157502</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F5AC100E-9F30-4472-BF1B-D8D02A69BB48</string>
+		</dict>
+		<key>F636D556-3612-4834-A11B-D0FAA6707BEE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F636D556-3612-4834-A11B-D0FAA6707BEE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654658840.130144</real>
+			<key>timeStoppedRecording</key>
+			<real>654658840.43966496</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F636D556-3612-4834-A11B-D0FAA6707BEE</string>
+		</dict>
+		<key>FB7C04EF-34ED-4283-97FB-A9A4A25BE592</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FB7C04EF-34ED-4283-97FB-A9A4A25BE592.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>654656646.43990803</real>
+			<key>timeStoppedRecording</key>
+			<real>654656646.67581403</real>
+			<key>title</key>
+			<string>woogie-Instagram Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FB7C04EF-34ED-4283-97FB-A9A4A25BE592</string>
 		</dict>
 	</dict>
 </dict>
