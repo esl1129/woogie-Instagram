@@ -20,7 +20,7 @@ public class AuthManager{
                  */
                 Auth.auth().createUser(withEmail: email, password: password){ result, error in
                     // Firebase auth could not create account
-                    guard error == nil && result != nil else{
+                    guard error == nil, result != nil else{
                         completion(false)
                         return
                     }
@@ -53,10 +53,28 @@ public class AuthManager{
                     completion(false)
                     return
                 }
+                
+                completion(true)
+                return
             }
         }else if let username = username{
             // username Login
             print(username)
+        }
+    }
+    
+    
+    /// Attempt to logout firebase user
+    public func logOut(completion: (Bool) -> Void){
+        do{
+            try Auth.auth().signOut()
+            completion(true)
+            return
+        }
+        catch{
+            print(error)
+            completion(false)
+            return
         }
     }
 }

@@ -10,7 +10,7 @@ import FirebaseDatabase
 public class DatabaseManager{
     static let shared = DatabaseManager()
     
-    private let database = Database.database().reference()
+    private let ref = Database.database().reference()
     
     
     // MARK: - Public
@@ -30,7 +30,7 @@ public class DatabaseManager{
     ///         - completion: Async callback for result if database entry succeded
     public func insertNewUser(with email: String, username: String, completion: @escaping (Bool) -> Void){
         let key = email.safeDatabaseKey()
-        database.child("users").child(key).setValue(["username": username]){ error, _  in
+        ref.child(key).setValue(["username": username]){ error, _ in
             if error == nil{
                 // succeded
                 completion(true)
