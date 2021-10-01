@@ -41,6 +41,7 @@
 		6CBEFA622703E5BD002A354C /* AuthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CBEFA612703E5BD002A354C /* AuthManager.swift */; };
 		6CBEFA642703E5E0002A354C /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CBEFA632703E5E0002A354C /* StorageManager.swift */; };
 		6CBEFA662703EAB5002A354C /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CBEFA652703EAB5002A354C /* Extension.swift */; };
+		6CBF4F89270693B500AEF16C /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CBF4F88270693B400AEF16C /* Models.swift */; };
 		D10F71B6E31D79F8D99A8189 /* Pods_woogie_Instagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7CBC4012C5F569B8861F8F22 /* Pods_woogie_Instagram.framework */; };
 /* End PBXBuildFile section */
 
@@ -82,6 +83,7 @@
 		6CBEFA612703E5BD002A354C /* AuthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthManager.swift; sourceTree = "<group>"; };
 		6CBEFA632703E5E0002A354C /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 		6CBEFA652703EAB5002A354C /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		6CBF4F88270693B400AEF16C /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		7CBC4012C5F569B8861F8F22 /* Pods_woogie_Instagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_woogie_Instagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7334941AA76ED6E237290BB /* Pods-woogie-Instagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-woogie-Instagram.release.xcconfig"; path = "Target Support Files/Pods-woogie-Instagram/Pods-woogie-Instagram.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -182,6 +184,7 @@
 		6CBEFA3827032975002A354C /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				6CBF4F88270693B400AEF16C /* Models.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -411,6 +414,7 @@
 				6CBEFA4F27032B23002A354C /* EditProfileViewController.swift in Sources */,
 				6CBEFA4227032A58002A354C /* ProfileViewController.swift in Sources */,
 				6CBEFA602703E53D002A354C /* DatabaseManager.swift in Sources */,
+				6CBF4F89270693B500AEF16C /* Models.swift in Sources */,
 				6CBEFA5127032B31002A354C /* SettingsViewController.swift in Sources */,
 				6CBEFA3E27032A38002A354C /* CameraViewController.swift in Sources */,
 				6C821C642705869200202C80 /* IGFeedPostActionsTableViewCell.swift in Sources */,

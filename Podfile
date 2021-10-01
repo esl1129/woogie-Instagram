@@ -7,6 +7,8 @@ target 'woogie-Instagram' do
 
   # Pods for woogie-Instagram
 pod 'Appirater'
+pod 'SDWebImage'
+
 
 #Firebase
 pod 'Firebase/Core'
