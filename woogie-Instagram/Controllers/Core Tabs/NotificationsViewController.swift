@@ -63,7 +63,7 @@ final class NotificationsViewController: UIViewController, UITableViewDelegate, 
     
     private func fetchNotifications(){
         for x in 0..<100{
-            let user = User(username: "joe",
+            let user = User(username: "@Kanye_West",
                             bio: "",
                             name: (first: "", last: ""),
                             profilePhoto: URL(string: "https://www.google.com")!,
