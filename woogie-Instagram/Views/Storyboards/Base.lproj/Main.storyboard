@@ -17,6 +17,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="barTintColor" systemColor="systemBackgroundColor"/>
                         <color key="selectedImageTintColor" systemColor="labelColor"/>
                     </tabBar>
                     <connections>
@@ -39,6 +40,10 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="cUe-Fs-XT8">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" systemColor="systemBackgroundColor"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" systemColor="labelColor"/>
+                        </textAttributes>
                     </navigationBar>
                     <connections>
                         <segue destination="lBT-wA-NAD" kind="relationship" relationship="rootViewController" id="pIV-yz-x4I"/>
@@ -56,6 +61,10 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="wbq-4m-nVi">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" systemColor="systemBackgroundColor"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" systemColor="labelColor"/>
+                        </textAttributes>
                     </navigationBar>
                     <connections>
                         <segue destination="exB-hl-oTv" kind="relationship" relationship="rootViewController" id="Ewx-iQ-JLj"/>
@@ -73,6 +82,10 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="djr-C5-7VN">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" systemColor="systemBackgroundColor"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" systemColor="labelColor"/>
+                        </textAttributes>
                     </navigationBar>
                     <connections>
                         <segue destination="t1l-g4-Mhh" kind="relationship" relationship="rootViewController" id="yNh-jl-2Eh"/>
@@ -90,6 +103,10 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="kbJ-mI-zHm">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" systemColor="systemBackgroundColor"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" systemColor="labelColor"/>
+                        </textAttributes>
                     </navigationBar>
                     <connections>
                         <segue destination="6bf-uN-B0Y" kind="relationship" relationship="rootViewController" id="PIe-lw-5UY"/>
@@ -107,6 +124,10 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="YcU-M4-x2D">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" systemColor="systemBackgroundColor"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" systemColor="labelColor"/>
+                        </textAttributes>
                     </navigationBar>
                     <connections>
                         <segue destination="7BM-js-XM4" kind="relationship" relationship="rootViewController" id="XPE-aQ-moN"/>
