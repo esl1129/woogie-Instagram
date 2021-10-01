@@ -42,7 +42,6 @@ class PostViewController: UIViewController {
     private let model: UserPost?
     
     private var renderModels = [PostRenderViewModel]()
-    
     private let tableView: UITableView = {
         let tableView = UITableView()
         
